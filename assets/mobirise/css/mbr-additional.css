@@ -1375,16 +1375,13 @@ body {
 .dropup .dropdown-toggle::after {
   display: none;
 }
-.cid-r33vKAnB83 {
-  background-image: url("../../../assets/images/20180727-183232-2000x1500.jpg");
+.cid-r34hluWO23 {
+  padding-top: 90px;
+  padding-bottom: 90px;
+  background-image: url("../../../assets/images/20180727-183233-2000x1500.jpg");
 }
-.cid-r33vKAnB83 H1 {
-  color: #149dcc;
-  text-align: right;
-}
-.cid-r33vKAnB83 .mbr-text,
-.cid-r33vKAnB83 .mbr-section-btn {
-  color: #ff3366;
+.cid-r34hluWO23 I {
+  color: #f7ed4a;
 }
 .cid-r33wSOLzCu {
   padding-top: 90px;
