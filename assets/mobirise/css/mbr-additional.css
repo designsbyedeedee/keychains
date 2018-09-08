@@ -1376,8 +1376,6 @@ body {
   display: none;
 }
 .cid-r34hluWO23 {
-  padding-top: 90px;
-  padding-bottom: 90px;
   background-image: url("../../../assets/images/20180727-183233-2000x1500.jpg");
 }
 .cid-r34hluWO23 I {
@@ -1386,7 +1384,7 @@ body {
 .cid-r33wSOLzCu {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-image: url("../../../assets/images/20180814-113431-2000x1500.jpg");
+  background-color: #0f7699;
 }
 .cid-r33wSOLzCu .card-img {
   background-color: #fff;
@@ -1481,8 +1479,8 @@ body {
   color: #f7ed4a;
 }
 .cid-r33JdpZA6W {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 0px;
+  padding-bottom: 0px;
   background-color: #879a9f;
 }
 .cid-r33JdpZA6W .socicon-bg-facebook {
